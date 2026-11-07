@@ -1,0 +1,11 @@
+{
+  "org": "allenai",
+  "repo": "molmoweb",
+  "versions": [
+    {
+      "commit": "bab3fc3f1bff5b42c0624c073b68ddf9ad651d91",
+      "tag": "",
+      "parsed_at": "2026-11-07T20:43:56.171155+00:00"
+    }
+  ]
+}
