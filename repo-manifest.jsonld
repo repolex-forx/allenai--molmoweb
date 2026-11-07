@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/allenai/molmoweb/commit/bab3fc3f1bff5b42c0624c073b68ddf9ad651d91",
       "git:hexsha": "bab3fc3f1bff5b42c0624c073b68ddf9ad651d91",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-07T20:43:56.170705+00:00"
     }
   ]
 }
